@@ -2,4 +2,4 @@
 ### 一个96年小伙的博客，就这样从2019年的第一天开始起步啦~~~
 ## 目录
 ### 1. 内功修养
-* 数据结构和算法 [](https://github.com/clm960227/data-structure)
+* [数据结构和算法](https://github.com/clm960227/data-structure)
