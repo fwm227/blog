@@ -5,3 +5,4 @@
 * [数据结构和算法](https://github.com/clm960227/data-structure)
 
 ### 2. 源码篇
+* [canvas2image原理以及优化](https://github.com/clm960227/blog/issues/1)
