@@ -7,3 +7,4 @@
 ### 2. 源码篇
 * [canvas2image原理以及优化](https://github.com/clm960227/blog/issues/1)
 * [vuex源码解析[1]——vuex初始化](https://github.com/smile960227/blog/issues/2)
+* [vuex源码解析[2]——发布/订阅](https://github.com/smile960227/blog/issues/3)
