@@ -10,4 +10,4 @@
 * [vuex源码解析[2]——发布/订阅](https://github.com/smile960227/blog/issues/3)
 
 ### 3.文章
-* [清除浮动](http://nicolasgallagher.com/micro-clearfix-hack/)
+* [BFC与清除浮动](http://nicolasgallagher.com/micro-clearfix-hack/)
