@@ -9,6 +9,6 @@
 * [vuex源码解析[1]——vuex初始化](https://github.com/smile960227/blog/issues/2)
 * [vuex源码解析[2]——发布/订阅](https://github.com/smile960227/blog/issues/3)
 
-### 3.文章
+### 3.文章收藏
 * [BFC与清除浮动](http://nicolasgallagher.com/micro-clearfix-hack/)
 * [js上下文执行和hoisting原理](https://mp.weixin.qq.com/s/BVabUBF6ZNh9NNJQHuDKzA)
