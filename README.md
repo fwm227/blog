@@ -1,7 +1,7 @@
 # 个人博客
 
 ## 目录
-### 1. 笔记杂谈
+### 1. 笔记
 * [数据结构和算法](https://github.com/clm960227/data-structure)
 * [js运行机制](https://github.com/smilingfacing/blog/issues/5)
 * [设计模式](https://github.com/smilingfacing/blog/issues/7)
