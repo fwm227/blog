@@ -5,7 +5,7 @@
 * [数据结构和算法](https://github.com/clm960227/data-structure)
 * [js运行机制](https://github.com/smilingfacing/blog/issues/5)
 * [设计模式](https://github.com/smilingfacing/blog/issues/7)
-* [前端性能优化](https://github.com/smilingfacing/blog/issues/8)
+* [前端性能优化](https://github.com/smilingfacing/blog/issues/9)
 
 ### 2. 源码篇
 * [canvas2image原理](https://github.com/clm960227/blog/issues/1)
