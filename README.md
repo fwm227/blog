@@ -9,6 +9,7 @@
 * [CSS模块化](https://github.com/smilingfacing/blog/issues/10)
 * [更优雅的形式自定义input样式](https://github.com/smilingfacing/blog/issues/11)
 * [HTMLCollection和NodeList](https://github.com/smilingfacing/blog/issues/12)
+* [微前端](https://github.com/smilingfacing/blog/issues/14)
 
 ### 2. 源码篇
 * [canvas2image原理](https://github.com/clm960227/blog/issues/1)
