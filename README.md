@@ -20,8 +20,3 @@
 * [vue中API解析](https://github.com/smilingfacing/blog/issues/6)
 * [koa源码解析](https://github.com/smilingfacing/blog/issues/8)
 
-### 3.文章收藏
-* [BFC与清除浮动](http://nicolasgallagher.com/micro-clearfix-hack/)
-* [js上下文执行和hoisting原理](https://mp.weixin.qq.com/s/BVabUBF6ZNh9NNJQHuDKzA)
-* [坐标轴刻度的规范化标定处理](https://wenku.baidu.com/view/2378eb88cc22bcd126ff0c9c.html)
-* [http1.0/1.1/2区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A?)
