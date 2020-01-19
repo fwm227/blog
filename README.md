@@ -18,7 +18,7 @@
 * [vue中API解析](https://github.com/smilingfacing/blog/issues/6)
 * [koa源码解析](https://github.com/smilingfacing/blog/issues/8)
 
-### 札记
+### 3. 札记
 * [设计模式](https://github.com/smilingfacing/blog/issues/7)
 * [数据结构和算法](https://github.com/clm960227/data-structure)
 * [Http](https://github.com/smilingfacing/blog/issues/16)
