@@ -11,6 +11,7 @@
 * [HTMLCollection和NodeList](https://github.com/smilingfacing/blog/issues/12)
 * [微前端](https://github.com/smilingfacing/blog/issues/14)
 * [观察者和发布/订阅区别](https://github.com/smilingfacing/blog/issues/15)
+* [HTTP笔录](https://github.com/smilingfacing/blog/issues/16)
 
 ### 2. 源码篇
 * [canvas2image原理](https://github.com/clm960227/blog/issues/1)
@@ -19,4 +20,3 @@
 * [vue-router源码解析](https://github.com/smilingfacing/blog/issues/4)
 * [vue中API解析](https://github.com/smilingfacing/blog/issues/6)
 * [koa源码解析](https://github.com/smilingfacing/blog/issues/8)
-
