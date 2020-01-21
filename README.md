@@ -17,7 +17,7 @@
 * [Typescript](https://www.edrawsoft.cn/viewer/public/s/1b777317465701)
 
 ### 3、图形学
-* [canvas点击图像移动](https://github.com/smilingfacing/blog/issues/17)
+* [canvas点击图形移动](https://github.com/smilingfacing/blog/issues/17)
 
 ### 4. 源码篇
 * [canvas2image原理](https://github.com/clm960227/blog/issues/1)
