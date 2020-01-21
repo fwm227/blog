@@ -14,6 +14,7 @@
 * [设计模式](https://github.com/smilingfacing/blog/issues/7)
 * [数据结构和算法](https://github.com/clm960227/data-structure)
 * [Http](https://github.com/smilingfacing/blog/issues/16)
+* [Typescript](https://www.edrawsoft.cn/viewer/public/s/1b777317465701)
 
 ### 3. 源码篇
 * [canvas2image原理](https://github.com/clm960227/blog/issues/1)
