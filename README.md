@@ -6,7 +6,6 @@
 * [前端性能优化](https://github.com/smilingfacing/blog/issues/9)
 * [CSS模块化](https://github.com/smilingfacing/blog/issues/10)
 * [更优雅的形式自定义input样式](https://github.com/smilingfacing/blog/issues/11)
-* [HTMLCollection和NodeList](https://github.com/smilingfacing/blog/issues/12)
 * [微前端](https://github.com/smilingfacing/blog/issues/14)
 * [观察者和发布/订阅区别](https://github.com/smilingfacing/blog/issues/15)
 
