@@ -9,6 +9,7 @@
 * [微前端](https://github.com/smilingfacing/blog/issues/14)
 * [观察者和发布/订阅区别](https://github.com/smilingfacing/blog/issues/15)
 * [手写Promise](https://github.com/smilingfacing/blog/issues/18)
+* [从输入URL到页面渲染过程](https://github.com/smilingfacing/blog/issues/20)
 
 ### 2、札记
 * [设计模式](https://github.com/smilingfacing/blog/issues/7)
