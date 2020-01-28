@@ -8,6 +8,7 @@
 * [更优雅的形式自定义input样式](https://github.com/smilingfacing/blog/issues/11)
 * [微前端](https://github.com/smilingfacing/blog/issues/14)
 * [观察者和发布/订阅区别](https://github.com/smilingfacing/blog/issues/15)
+* [手写Promise](https://github.com/smilingfacing/blog/issues/18)
 
 ### 2、札记
 * [设计模式](https://github.com/smilingfacing/blog/issues/7)
