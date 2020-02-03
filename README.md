@@ -18,6 +18,7 @@
 * [Http](https://github.com/smilingfacing/blog/issues/16)
 * [Typescript](https://www.edrawsoft.cn/viewer/public/s/1b777317465701)
 * [web安全](https://github.com/smilingfacing/blog/issues/22)
+* [web安全预防](https://github.com/smilingfacing/blog/issues/23)
 
 ### 3、图形学
 * [canvas点击图形移动](https://github.com/smilingfacing/blog/issues/17)
