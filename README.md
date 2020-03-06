@@ -18,7 +18,6 @@
 * [数据结构和算法](https://github.com/clm960227/data-structure)
 * [Typescript](https://www.edrawsoft.cn/viewer/public/s/1b777317465701)
 * [Http](https://github.com/smilingfacing/blog/issues/16)
-* [web安全](https://github.com/smilingfacing/blog/issues/22)
 * [web安全防御](https://www.edrawsoft.cn/viewer/public/s/3c278010281981)
 
 ### 3、图形学
