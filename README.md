@@ -32,5 +32,8 @@
 * [koa源码解析](https://github.com/smilingfacing/blog/issues/8)
 
 ### 5.区块链
-
 * [ETH冷钱包实现思路](https://github.com/smilingfacing/blog/issues/22)
+
+### 6. 个人项目
+* [关于我做音乐客户端做的一些优化]()
+
