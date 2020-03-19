@@ -12,7 +12,7 @@
 * [从输入URL到页面渲染过程](https://github.com/smilingfacing/blog/issues/20)
 * [CDN优化](https://github.com/smilingfacing/blog/issues/21)
 * [webpack打包优化](https://www.edrawsoft.cn/viewer/public/s/3f230125768001)
-* [浏览器相关内容](https://www.edrawsoft.cn/viewer/public/s/e159b987966298)
+* [浏览器原理](https://www.edrawsoft.cn/viewer/public/s/e159b987966298)
 
 ### 2、札记
 * [设计模式](https://github.com/smilingfacing/blog/issues/7)
