@@ -10,7 +10,7 @@
 * [观察者和发布/订阅区别](https://github.com/smilingfacing/blog/issues/15)
 * [手写代码](https://github.com/smilingfacing/blog/issues/18)
 * [从输入URL到页面渲染过程](https://github.com/smilingfacing/blog/issues/20)
-* [web缓存](https://github.com/smilingfacing/blog/issues/21)
+* [CDN优化](https://github.com/smilingfacing/blog/issues/21)
 * [webpack打包优化](https://www.edrawsoft.cn/viewer/public/s/3f230125768001)
 
 ### 2、札记
