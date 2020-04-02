@@ -38,5 +38,5 @@
 ### 6.服务器相关配置
 
 ### 7. 个人项目
-* [音乐客户端做的相关优化]()
+* [音乐客户端做的相关优化](https://github.com/smilingfacing/blog/issues/25)
 
