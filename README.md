@@ -25,14 +25,14 @@
 * [canvas2image原理](https://github.com/clm960227/blog/issues/1)
 * [koa源码解析](https://github.com/smilingfacing/blog/issues/8)
 
-##### 4.1 Vue源码
+#### 3.1 Vue源码
 * [vue源码解析](https://github.com/smile960227/blog/issues/2)
 * [vue源码-$mount](https://github.com/Allen227/blog/issues/27)
 * [vuex源码解析](https://github.com/smile960227/blog/issues/3)
 * [vue-router源码解析](https://github.com/smilingfacing/blog/issues/4)
 * [vue中API解析](https://github.com/smilingfacing/blog/issues/6)
 
-#### 4.2 React源码
+#### 3.2 React源码
 
 ### 4、图形学
 * [canvas点击图形移动](https://github.com/smilingfacing/blog/issues/17)
