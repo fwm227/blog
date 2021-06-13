@@ -43,6 +43,6 @@
 ### 6.服务器相关配置
 * [docker实践笔记](https://www.edrawsoft.cn/viewer/public/s/95361987595525)
 
-### 7. 个人项目
-* [音乐客户端做的相关优化](https://github.com/smilingfacing/blog/issues/25)
+### 7. 散记
+* [vue2里的编译器](https://github.com/fwm227/blog/issues/29)
 
